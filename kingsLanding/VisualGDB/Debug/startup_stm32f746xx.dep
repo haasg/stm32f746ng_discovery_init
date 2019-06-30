@@ -1,0 +1,5 @@
+VisualGDB/Debug/startup_stm32f746xx.o: \
+ C:/Users/blahb/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/STM32F7xxxx/StartupFiles/startup_stm32f746xx.c \
+ c:\sysgcc\arm-eabi\lib\gcc\arm-eabi\7.2.0\include\stddef.h
+
+c:\sysgcc\arm-eabi\lib\gcc\arm-eabi\7.2.0\include\stddef.h:
